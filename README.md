@@ -1,3 +1,5 @@
+![Solomon'z Graphix Logo](logo.png)
+
 # Solomon'z Graphix 
 
 Creative design solutions for brands, businesses, and individuals.
